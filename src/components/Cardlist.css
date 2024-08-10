@@ -1,0 +1,10 @@
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Adjust as needed */
+  }
+  
+  .card-list .card {
+    flex: 1 1 200px; /* Adjust the basis as needed */
+    margin: 10px; /* Adjust as needed */
+  }
